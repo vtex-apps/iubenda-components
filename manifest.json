@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "iubenda-components",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "title": "Iubenda components",
   "description": "",
   "builders": {
